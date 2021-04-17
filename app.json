@@ -4,9 +4,9 @@
     "slug": "StoryHub",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./images/write.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./images/write.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
